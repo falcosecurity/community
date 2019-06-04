@@ -16,12 +16,3 @@ you understand that you have to be willing to discuss about the topic you are pr
 <!-- Give some details on what you want to discuss, add any links you think might be useful
 for those that will come and upvote this for discussion in the office hours. -->
 
-**Cute animals**
-
-> Uncomment only one of the following lines, hit enter to put that in a new line, and remove leading whitespaces from that line:
->
-> /meow
-> /woof
-> /bark
-> /meow caturday
-> /meowvie clothes
