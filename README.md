@@ -10,7 +10,7 @@ Falco office hours gives the Falco community a common time to come together to d
 
 Topics are proposed and voted in the office-hours repo by opening an issue, and the most upvoted issues have a chance to be addressed on the upcoming call. The less upvoted are kept for the preceeding call (or can be discussed if time allows on the current call). The MC for the week takes care of reaching out to the issue owner about participating in the upcoming call.
 
-Note: If you want to debug problems together, look at [DEBUGGING_HOURS.md](DEBUGGING_HOURS.md)
+Note: If you want to debug problems together, look at the [debugging hours](DEBUGGING_HOURS.md) document.
 
 # Report Structure
 
@@ -34,13 +34,13 @@ MC Duties:
 - Presenting active participants
 - Presenting the topics
 - Give the word to the first speaker
-- Keep the timing 
+- Keep the timing
 - Moderate the discussion
 
-Issue/Topic Owner duties: 
+Issue/Topic Owner duties:
 - Discuss for 5 minutes about every issue/PR and asks for feedback.
 
-MC + Owner: 
+MC + Owner:
 - Drive possible issue/PR outcomes
     - Continue work
     - Close
