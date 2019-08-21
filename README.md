@@ -1,6 +1,6 @@
 # Overview
 
-When: Every Thursday at 11 AM ET (8AM PT, 5 PM CET)
+When: Bi-weekly on Wednesday at 11 AM ET (8AM PT, 5 PM CET)
 
 Where: https://sysdig.zoom.us/j/213235330
 
