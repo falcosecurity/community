@@ -2,6 +2,8 @@
 
 When: [Bi-weekly on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at 11 AM ET (8AM PT, 5 PM CET)
 
+You can subscribe to the Falco calendar by adding this URL as a calendar in Google calendars: https://lists.cncf.io/g/cncf-falco-dev/ics/4188422/1539743120/feed.ics
+
 Where: https://sysdig.zoom.us/j/213235330
 
 Falco office hours gives the Falco community a common time to come together to discuss any open issues or PRs, new features, rules, upcoming releases, etc. Anyone can join, anyone can ask questions in the designed time but only the MC and the designed speakers (those that had allocated 10 mins slot during the week) will present. After every call, a report will be published in this repository with a summary of the call.
