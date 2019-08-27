@@ -1,6 +1,8 @@
 # Overview
 
-When: Bi-weekly on Wednesday at 11 AM ET (8AM PT, 5 PM CET)
+When: [Bi-weekly on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at 11 AM ET (8AM PT, 5 PM CET)
+
+You can subscribe to the Falco calendar by selecting the link above and scrolling towards the bottom of the page. Once you choose `Subscribe to Calendar` you will be presented with a URL that you will add to your google calendar.
 
 Where: https://sysdig.zoom.us/j/213235330
 
@@ -9,6 +11,9 @@ Falco office hours gives the Falco community a common time to come together to d
 Topics are proposed and voted in the office-hours repo by opening an issue, and the most upvoted issues have a chance to be addressed on the upcoming call. The less upvoted are kept for the preceeding call (or can be discussed if time allows on the current call). The MC for the week takes care of reaching out to the issue owner about participating in the upcoming call.
 
 Note: If you want to debug problems together, look at the [debugging hours](DEBUGGING_HOURS.md) document.
+
+To join the Falco mailing list, please [subscribe here](https://lists.cncf.io/g/cncf-falco-dev)
+To join the Falco slack channel, please [subscribe here](https://slack.sysdig.com)
 
 # Report Structure
 
