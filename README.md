@@ -11,6 +11,7 @@ Topics are proposed and voted in the office-hours repo by opening an issue, and 
 Note: If you want to debug problems together, look at the [debugging hours](DEBUGGING_HOURS.md) document.
 
 To join the Falco mailing list, please [subcribe here](https://lists.cncf.io/g/cncf-falco-dev)
+To join Falco on slack, please sign up [here](https://slack.sysdig.com)
 
 # Report Structure
 
