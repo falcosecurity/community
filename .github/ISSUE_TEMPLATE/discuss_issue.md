@@ -1,5 +1,5 @@
 ---
-name: Discussion proposal
+name: Discussion proposal (issue)
 about: Discuss an issue in the Community call
 title: ''
 labels: kind/issue
@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-
-<!-- 
-Thanks for sending a discussion proposal! Here's some tips for you:
+<!--
+Thanks for sending a discussion proposal!
+Here's some tips for you:
 Please read the README.md file to understand how the discussions take place and make sure that
 you understand that you have to be willing to discuss about the topic you are proposing other than proposing it.
 -->
@@ -24,7 +24,6 @@ you understand that you have to be willing to discuss about the topic you are pr
 
 <!--
 Give some details on what you want to discuss, add any links you think might be useful
-for those that will come and upvote this for discussion for the next community call. 
-If you want to open a debugging hours request please don't forget to also indicate your availability!
+for those that will come and upvote this for discussion for the next community call.
 -->
 
