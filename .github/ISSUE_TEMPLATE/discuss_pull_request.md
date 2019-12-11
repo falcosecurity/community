@@ -1,6 +1,6 @@
 ---
 name: Discussion proposal (PR)
-about: Discuss an issue in the Community call
+about: Discuss a PR in the Community call
 title: ''
 labels: kind/pr
 assignees: ''
