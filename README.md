@@ -1,50 +1,43 @@
-# Overview
+<p align="center"><img src="logo/primary-logo.png" width="360"></p>
+<p align="center"><b>Cloud Native Runtime Security.</b></p>
 
-When: [Bi-weekly on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at 11 AM ET (8AM PT, 5 PM CET)
+<hr>
 
-You can subscribe to the Falco calendar by selecting the link above and scrolling towards the bottom of the page. Once you choose `Subscribe to Calendar` you will be presented with a URL that you will add to your google calendar.
+# Falco Open Source Community 
 
-Where: https://sysdig.zoom.us/j/213235330
+The Falco community owns and maintains all aspects of The Falco Project. Every repository in the [falcosecurity](https://github.com/falcosecurity) GitHub org belongs to the community.
 
-Falco Community calls gives the Falco community a common time to come together to discuss any open issues or PRs, new features, rules, upcoming releases, etc. Anyone can join, anyone can ask questions in the designed time but only the MC and the designed speakers (those that had allocated 10 mins slot during the week) will present. After every call, a report will be published in this repository with a summary of the call.
+## Falco Community Calls
 
-Topics are proposed and voted in this repo by opening an issue, and the most upvoted issues have a chance to be addressed on the upcoming call. The less upvoted are kept for the next calls (or can be discussed if time allows on the current call). The MC for the week takes care of reaching out to the issue owner about participating in the upcoming call.
+These are the primary calls for The Falco Project. If you are unsure where to get started, this is the place to join.
 
-In case you want to debug problems together, look at the [debugging hours](DEBUGGING_HOURS.md) document. The process is the same: open an issue in this repository using the "Debuggin hours" template.
+**When**: [Weekly Community Calls on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at 11 AM ET (8AM PT, 5 PM CET)
 
-To join the Falco mailing list, please [subscribe here](https://lists.cncf.io/g/cncf-falco-dev)
-To join the Falco slack channel, please [subscribe here](https://slack.sysdig.com)
+If you use Google Calendar and would like a reminder you can simply [click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjFpNDRqcGVnbGc0NDc2cDF0ZHI5MnRtNmNfMjAyMDAxMjlUMTYwMDAwWiBrcmlzLm5vdmFAc3lzZGlnLmNvbQ&tmsrc=kris.nova%40sysdig.com&scp=ALL).
 
-# Report Structure
+You can also subscribe to the Falco calendar by [clicking here](https://lists.cncf.io/g/cncf-falco-dev/calendar) and scrolling towards the bottom of the page. 
+Once you choose `Subscribe to Calendar` you will be presented with a URL that you will add to your calendar.
 
-Each call should have a report from the call, detailing the following.
 
-- Time and date
-- Issues/PRs/subjects of discussion (max 6)
-    - Subject: id of the issue/PR
-    - Owner: person working on it
-- Who joined
-- New contributors
-- This week highlights
-- Next week priorities
-- Related stuff (e.g: conferences/talks/blog posts)
+**Where**: [Zoom call](https://sysdig.zoom.us/my/falco)
 
-# Run of the Call
+Falco Community calls gives the Falco community a common time to come together to discuss any open issues or PRs, new features, rules, upcoming releases, etc. 
+Anyone can join, anyone can ask questions in the designed time but only the MC and the designed speakers (those that had allocated 10 mins slot during the week) will present. 
+After every call, a report will be [published in this repository](https://github.com/falcosecurity/community/tree/master/meeting-notes) with a summary of the call.
 
-For each call, the MC and issue Owners should follow the below process.
+## Running a call
 
-MC Duties:
-- Presenting active participants
-- Presenting the topics
-- Give the word to the first speaker
-- Keep the timing
-- Moderate the discussion
+Regardless if you are interested in starting a new call, or running an existing call we have some structure in place to drive these calls.
 
-Issue/Topic Owner duties:
-- Discuss for 5 minutes about every issue/PR and asks for feedback.
+ - All new calls should include a calendar invite sent to the mailing list's email address [cncf-falco-dev@lists.cncf.io](mailto:cncf-falco-dev@lists.cncf.io), as well as a short description of the call and the goals.
+ - All calls should be recorded and published to the [Falco YouTube Channel](https://www.youtube.com/channel/UCd7LDOK1nN5jIULHk-LJJtA) 
+    - _Note_: Please contact a maintainer for access to the channel if you need to upload a video. 
+ - All calls should have written minutes using [hackmd.io](https://hackmd.io). Ideally the minutes are posted in advance to give collaborators a chance to add items before the meeting. After the meeting the notes should be closed, and uploaded to this repository.
+    - _Note_: The template used for the Falco Community Calls can be [found here](https://hackmd.io/SUtlRuAzSmyvA215afL5lg?both)
+ - All calls must adhere to [the CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
-MC + Owner:
-- Drive possible issue/PR outcomes
-    - Continue work
-    - Close
-    - Escalate
+### Resources
+
+ - [Join the Falco slack](https://slack.sysdig.com)
+ - [Join the Falco mailing list](https://lists.cncf.io/g/cncf-falco-dev)
+ - [Read the Falco documentation](https://falco.org/docs/)
