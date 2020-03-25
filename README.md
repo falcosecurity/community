@@ -21,11 +21,13 @@ Once you choose `Subscribe to Calendar` you will be presented with a URL that yo
 
 **Where**: [Zoom call](https://sysdig.zoom.us/my/falco)
 
-Falco Community calls gives the Falco community a common time to come together to discuss any open issues or PRs, new features, rules, upcoming releases, etc. 
+Falco Community calls gives the Falco community a common time to come together to discuss any open issues or PRs, new features, rules, upcoming releases, etc. d
 Anyone can join, anyone can ask questions in the designed time but only the MC and the designed speakers (those that had allocated 10 mins slot during the week) will present. 
 After every call, a report will be [published in this repository](https://github.com/falcosecurity/community/tree/master/meeting-notes) with a summary of the call.
 
 **History**: [Check out the YouTube channel](https://www.youtube.com/channel/UCd7LDOK1nN5jIULHk-LJJtA)
+
+**Minutes**: We use the same [hackmd](https://hackmd.io/6sEAlInlSaGnLz2FnFz21A?both) document every week to track our minutes.
 
 All of our calls are documented and posted to the [YouTube channel](https://www.youtube.com/channel/UCd7LDOK1nN5jIULHk-LJJtA). 
 
