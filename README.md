@@ -39,7 +39,7 @@ Regardless if you are interested in starting a new call, or running an existing 
  - All calls should be recorded and published to the [Falco YouTube Channel](https://www.youtube.com/channel/UCd7LDOK1nN5jIULHk-LJJtA) 
     - _Note_: Please contact a maintainer for access to the channel if you need to upload a video. 
  - All calls should have written minutes using [hackmd.io](https://hackmd.io). Ideally the minutes are posted in advance to give collaborators a chance to add items before the meeting. After the meeting the notes should be closed, and uploaded to this repository.
-   both)
+     - _Note_: The template used for the Falco Community Calls can be [found here](meeting-note-template.md)
  - All calls must adhere to [the CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 
 ### Resources
