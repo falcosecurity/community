@@ -23,5 +23,5 @@ Join the following channels on the [Kubernetes Slack](https://slack.k8s.io).
 - #falco-maintainers
     - public
     - AMA
-- #falco-maintainers-private
+- #falco-maintainers-pvt
     - invite only
