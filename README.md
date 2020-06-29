@@ -19,7 +19,7 @@ You can also subscribe to the Falco calendar by [clicking here](https://lists.cn
 Once you choose `Subscribe to Calendar` you will be presented with a URL that you will add to your calendar.
 
 
-**Where**: [Zoom call](https://sysdig.zoom.us/my/falco)
+**Where**: [Zoom call](https://zoom.us/my/cncffalcoproject)
 
 Falco Community calls gives the Falco community a common time to come together to discuss any open issues or PRs, new features, rules, upcoming releases, etc.
 Anyone can join, anyone can ask questions in the designed time but only the MC and the designed speakers (those that had allocated 10 mins slot during the week) will present. 
