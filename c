@@ -1,8 +1,8 @@
 # Falco Community Call
 
 [More Information](https://github.com/falcosecurity/community)
-[Zoom Link](https://sysdig.zoom.us/my/falco)
-[Recording](https://)
+[Zoom Link](https://zoom.us/my/cncffalcoproject)
+[Recording]()
 
 ## YYYY-MM-DD
 
