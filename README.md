@@ -11,12 +11,15 @@ The Falco community owns and maintains all aspects of The Falco Project. Every r
 
 These are the primary calls for The Falco Project. If you are unsure where to get started, this is the place to join.
 
-**When**: [Weekly Community Calls on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at UTC 3pm)
+**When**: [Weekly Community Calls on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at UTC 4pm)
 
-If you use Google Calendar and would like a reminder you can simply [click here](https://calendar.google.com/event?action=TEMPLATE&tmeid=NjFpNDRqcGVnbGc0NDc2cDF0ZHI5MnRtNmNfMjAyMDAxMjlUMTYwMDAwWiBrcmlzLm5vdmFAc3lzZGlnLmNvbQ&tmsrc=kris.nova%40sysdig.com&scp=ALL).
+You can see the Falco Calendar [here](https://lists.cncf.io/g/cncf-falco-dev/calendar) .
 
-You can also subscribe to the Falco calendar by [clicking here](https://lists.cncf.io/g/cncf-falco-dev/calendar) and scrolling towards the bottom of the page. 
-Once you choose `Subscribe to Calendar` you will be presented with a URL that you will add to your calendar.
+If you want to subscribe to the Falco calendar, you can use this ics feed.
+
+```
+https://lists.cncf.io/g/cncf-falco-dev/ics/4188901/1750099167/feed.ics
+```
 
 
 **Where**: [Zoom call](https://zoom.us/my/cncffalcoproject)
