@@ -5,6 +5,7 @@ approvers:
   - kris-nova
   - leogr
   - danpopsd
+  - nibalizer
 reviewers:
   - leodido
   - fntlnz
@@ -15,4 +16,4 @@ reviewers:
   - markyjackson-taulia
   - leogr
   - danpopsd
-
+  - nibalizer
