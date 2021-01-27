@@ -28,7 +28,7 @@ Falco Community calls gives the Falco community a common time to come together t
 Anyone can join, anyone can ask questions in the designed time but only the MC and the designed speakers (those that had allocated 10 mins slot during the week) will present. 
 After every call, a report will be [published in this repository](https://github.com/falcosecurity/community/tree/master/meeting-notes) with a summary of the call.
 
-**Minutes**: We use the same [hackmd](https://hackmd.io/6sEAlInlSaGnLz2FnFz21A?both) document every week to track our minutes.
+**Minutes**: We use the same [hackmd](https://hackmd.io/3qYPnZPUQLGKCzR14va_qg?both) document every week to track our minutes.
 
 **History**: [Check out the YouTube channel](https://www.youtube.com/channel/UCd7LDOK1nN5jIULHk-LJJtA)
 
