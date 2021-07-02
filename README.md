@@ -11,7 +11,7 @@ The Falco community owns and maintains all aspects of The Falco Project. Every r
 
 These are the primary calls for The Falco Project. If you are unsure where to get started, this is the place to join.
 
-**When**: [Weekly Community Calls on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at UTC 4pm)
+**When**: [Weekly Community Calls on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at UTC 4pm.
 
 You can see the Falco Calendar [here](https://lists.cncf.io/g/cncf-falco-dev/calendar) .
 
