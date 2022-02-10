@@ -47,6 +47,6 @@ Regardless if you are interested in starting a new call, or running an existing 
 
 ### Resources
 
- - Join the #falco channel on the [Kubernetes Slack](https://slack.k8s.io)
+ - Join the #falco channel on the [Kubernetes Slack](https://kubernetes.slack.com/messages/falco)
  - [Join the Falco mailing list](https://lists.cncf.io/g/cncf-falco-dev)
  - [Read the Falco documentation](https://falco.org/docs/)
