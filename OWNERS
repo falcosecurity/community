@@ -1,6 +1,5 @@
 approvers:
   - leodido
-  - fntlnz
   - mfdii
   - kris-nova
   - leogr
@@ -8,7 +7,6 @@ approvers:
   - nibalizer
 reviewers:
   - leodido
-  - fntlnz
   - mfdii
   - kris-nova
   - kaizhe
