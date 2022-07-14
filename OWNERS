@@ -1,19 +1,13 @@
 approvers:
-  - leodido
-  - fntlnz
-  - mfdii
-  - kris-nova
   - leogr
-  - danpopnyc
-  - nibalizer
 reviewers:
-  - leodido
-  - fntlnz
-  - mfdii
-  - kris-nova
   - kaizhe
   - mstemm
   - markyjackson-taulia
-  - leogr
+emeritus_approvers:
+  - leodido
+  - fntlnz
+  - mfdii
+  - kris-nova
   - danpopnyc
   - nibalizer
