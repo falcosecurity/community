@@ -1,8 +1,10 @@
 # Falco Community Call
 
 [More Information](https://github.com/falcosecurity/community)
+
 [Zoom Link](https://zoom.us/my/cncffalcoproject)
-[Recording]()
+
+[Recording](https://youtube.com/playlist?list=PLgVVUpW8NIJAaZtszf1_nxB2y6mQrlY4s)
 
 ## YYYY-MM-DD
 
@@ -26,4 +28,3 @@
 ### Closing
 
 - **MC Next Call**:
-- **Next Release**: 
