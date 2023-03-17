@@ -1,4 +1,4 @@
-## How to get started contributing to the Falco blog
+# How to get started contributing to the Falco blog
 
 Welcome to the Falco community blog. This blog serves as an educational resource for community members, maintainers, and contributors. 
 
@@ -26,7 +26,7 @@ The community thanks you for your interest in contributing content to the Falco 
 **Editorial calendar**
 The goal of the editorial calendar is to proactively plan, source speakers, and curate content to the Falco community in a transparent manner. Please review the editorial calendar to understand when your blog will be published.
 
-[**Editorial calendar**](https://)
+[**Editorial calendar**](https://docs.google.com/spreadsheets/d/1LiE5yE3kplD_Kg3y1YVZphCiChmqC2xynMJLoqlREPM/edit?usp=sharing)
 
 Suggested themes and topics to write about: 
 * Falco best practices
@@ -63,7 +63,7 @@ Now that you understand the content guidelines, editorial calendar, and publishi
 * Step 4: Add images to the [img folder](https://github.com/falcosecurity/falco-website/tree/master/static/img)
 * Step 4: Commit your work with a signoff and push to Github
 * Step 5: Create your pull request to upstream repo with your changes
-Filing your first PR? Go here 👉 [for step by step instructions ](https://)
+Filing your first PR? Go here 👉 [for step by step instructions ](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 **Promoting your blog**
 Finally, once the blog goes live we will promote the content on the Falco twitter handle. We will create 2 different post copies with a social media card and promote over a 2 weeks period.
