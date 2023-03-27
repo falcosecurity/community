@@ -22,10 +22,10 @@ Complete (1) issue labeled high priority. <br>Fix (5) issues labeled bug fix in 
 # How do I collect my swag? 
 **TLDR;**
 Go here 🔜 [COMMUNITY REPO](https://github.com/falcosecurity/community/issues)
-Comment on the current month’s issue your contribution 
-The submission period closes the 4th Wednesday of every month 
-The program manager will reach out to everyone who submitted their contribution with the link to the order form by the last day of the month
-Swag will ship directly to you! 
+- Comment on the current month’s issue your contribution 
+- The submission period closes the 4th Wednesday of every month 
+- The program manager will reach out to everyone who submitted their contribution with the link to the order form by the last day of the month
+- Swag will ship directly to you! 
 
 Each month the community will open an issue in the community repo with the following naming convention: [Community appreciation program Month - call for submissions](https://github.com/falcosecurity/community/issues/177). 
 
