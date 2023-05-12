@@ -43,7 +43,7 @@ You can see the Falco Calendar [here](https://lists.cncf.io/g/cncf-falco-dev/cal
 If you want to subscribe to the Falco calendar, you can use this ics feed.
 
 ```
-https://lists.cncf.io/g/cncf-falco-dev/ics/4188901/1750099167/feed.ics
+https://lists.cncf.io/g/cncf-falco-dev/ics/7639482/1350118793/feed.ics
 ```
 
 
