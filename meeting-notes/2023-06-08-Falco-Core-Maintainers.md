@@ -12,6 +12,7 @@
 - Massimiliano Giovagnoli ([@maxgio92](https://github.com/maxgio92))
 - Grzegorz Nosek ([gnosek](https://github.com/gnosek))
 - Andrea
+- Luca
 
 ## Agenda
 
