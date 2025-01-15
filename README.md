@@ -10,11 +10,12 @@ The Falco community owns and maintains all aspects of The Falco Project. Every r
 
 **Table of Contents**
 
+- [Falco Community](#falco-community)
   - [Community Calls](#community-calls)
-    * [Running a call](#running-a-call)
+  - [Running a call](#running-a-call)
   - [Slack Channel](#slack-channel)
   - [Mailing List](#mailing-list)
-  - [How to contribute?](#how-to-contribute)
+  - [How to contribute](#how-to-contribute)
   - [Project Evolution](#project-evolution)
 
 **Resources**
@@ -36,22 +37,30 @@ The Falco community owns and maintains all aspects of The Falco Project. Every r
 
 These are the primary calls for The Falco Project. If you are unsure where to get started, this is the place to join.
 
-**When**: [Weekly Community Calls on Wednesday](https://lists.cncf.io/g/cncf-falco-dev/calendar) at UTC 4pm.
+**When**: [Biwkeely Community Calls](https://lists.cncf.io/g/cncf-falco-dev/calendar), every 2 weeks on Wednesday at 4pm UTC.
 
 You can see the Falco Calendar [here](https://lists.cncf.io/g/cncf-falco-dev/calendar) .
 
 If you want to subscribe to the Falco calendar, you can use this ics feed.
-
 ```
 https://lists.cncf.io/g/cncf-falco-dev/ics/7639482/1350118793/feed.ics
 ```
 
-
 **Where**: [Zoom call](https://zoom.us/my/cncffalcoproject)
 
 Falco Community calls gives the Falco community a common time to come together to discuss any open issues or PRs, new features, rules, upcoming releases, etc.
-Anyone can join, anyone can ask questions in the designed time but only the MC and the designed speakers (those that had allocated 10 mins slot during the week) will present. 
-After every call, a report will be [published in this repository](https://github.com/falcosecurity/community/tree/master/meeting-notes) with a summary of the call.
+
+Each session is composed of 3 parts:
+
+- Latest news of the project and its ecosystem
+- A 5min lightning talk from anyone in the community, maintainers, contributors and users, about any topic they would like to present. It can be an existing feature, a POC for a new feature, a specific use case, a useful tip, etc.
+- The remaining time is free for the users to ask for help to the present maintainers. Having created the issue on GitHub before will help.
+
+The MC can be every community member willing to help run the call. The MC should be chosen in advance so that they have enough time to prepare the Agenda.
+
+To give a lightning talk or discuss any topic in the upcoming meeting, please book the slot by adding an item in the [hackmd](https://hackmd.io/3qYPnZPUQLGKCzR14va_qg?both).
+
+After every release of Falco, the minutes of the community calls since the previous release are [published in this repository](https://github.com/falcosecurity/community/tree/master/meeting-notes).
 
 **Minutes**: We use the same [hackmd](https://hackmd.io/3qYPnZPUQLGKCzR14va_qg?both) document every week to track our minutes.
 
@@ -59,7 +68,7 @@ After every call, a report will be [published in this repository](https://github
 
 All of our calls are documented and posted to the [YouTube channel](https://www.youtube.com/channel/UCd7LDOK1nN5jIULHk-LJJtA). 
 
-### Running a call
+## Running a call
 
 Regardless if you are interested in starting a new call, or running an existing call we have some structure in place to drive these calls.
 
