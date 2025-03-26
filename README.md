@@ -37,7 +37,7 @@ The Falco community owns and maintains all aspects of The Falco Project. Every r
 
 These are the primary calls for The Falco Project. If you are unsure where to get started, this is the place to join.
 
-**When**: [Biwkeely Community Calls](https://lists.cncf.io/g/cncf-falco-dev/calendar), every 2 weeks on Wednesday at 4pm UTC.
+**When**: [Biweekly Community Calls](https://lists.cncf.io/g/cncf-falco-dev/calendar), every 2 weeks on Wednesday at 4pm UTC.
 
 You can see the Falco Calendar [here](https://lists.cncf.io/g/cncf-falco-dev/calendar) .
 
