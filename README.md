@@ -58,11 +58,11 @@ Each session is composed of 3 parts:
 
 The MC can be every community member willing to help run the call. The MC should be chosen in advance so that they have enough time to prepare the Agenda.
 
-To give a lightning talk or discuss any topic in the upcoming meeting, please book the slot by adding an item in the [hackmd](https://hackmd.io/3qYPnZPUQLGKCzR14va_qg?both).
+To give a lightning talk or discuss any topic in the upcoming meeting, please book the slot by adding an item in the [hackmd](https://hackmd.io/bDCYZ717QSWA1UBZXRSPfw#/).
 
 After every release of Falco, the minutes of the community calls since the previous release are [published in this repository](https://github.com/falcosecurity/community/tree/master/meeting-notes).
 
-**Minutes**: We use the same [hackmd](https://hackmd.io/3qYPnZPUQLGKCzR14va_qg?both) document every week to track our minutes.
+**Minutes**: We use the same [hackmd](https://hackmd.io/bDCYZ717QSWA1UBZXRSPfw#/) document every week to track our minutes.
 
 **History**: [Check out the YouTube channel](https://www.youtube.com/channel/UCd7LDOK1nN5jIULHk-LJJtA)
 
